@@ -16,6 +16,7 @@ namespace Ex101
             Console.WriteLine("zmienna i: " + i);
             Console.WriteLine("zmienna j: " + j);
             Console.WriteLine("zmienna k: " + k);
+            Console.ReadKey();
         }
     }
 }

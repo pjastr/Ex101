@@ -1,1 +1,2 @@
 c:\users\piotrek\documents\visual studio 2013\Projects\Ex101\Ex101\bin\Debug\Ex101.exe.config
+C:\Users\Piotrek\Source\Repos\Ex101\Ex101\bin\Debug\Ex101.exe.config
